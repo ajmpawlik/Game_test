@@ -1,0 +1,3 @@
+def play
+  "A"
+end
