@@ -1,3 +1,3 @@
 def play
-  "A"
+  "What is the sattelite of Earth?"
 end
